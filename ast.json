@@ -1,0 +1,61 @@
+{
+  "inner": [
+    {
+      "inner": [
+        {
+          "inner": [
+            {
+              "inner": [
+                {
+                  "inner": [
+                    {
+                      "inner": [
+                        {
+                          "kind": "NumberLiteral",
+                          "line": 0,
+                          "textLabel": "2",
+                          "value": "2"
+                        },
+                        {
+                          "kind": "NumberLiteral",
+                          "line": 0,
+                          "textLabel": "5",
+                          "value": "5"
+                        }
+                      ],
+                      "kind": "BinaryOperator",
+                      "line": -1,
+                      "op": "*",
+                      "textLabel": "*"
+                    },
+                    {
+                      "kind": "NumberLiteral",
+                      "line": 0,
+                      "textLabel": "3",
+                      "value": "3"
+                    }
+                  ],
+                  "kind": "BinaryOperator",
+                  "line": -1,
+                  "op": "+",
+                  "textLabel": "+"
+                }
+              ],
+              "kind": "VarDecl",
+              "name": "a",
+              "textLabel": "a",
+              "type": "float"
+            }
+          ],
+          "kind": "CompoundStmt",
+          "line": -1
+        }
+      ],
+      "kind": "FunctionDecl",
+      "line": -1,
+      "textLabel": "f"
+    }
+  ],
+  "kind": "TranslationUnit",
+  "line": -1
+}
